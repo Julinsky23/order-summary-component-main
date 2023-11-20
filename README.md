@@ -21,9 +21,6 @@ Users should be able to:
 
 ![](./Solution_pictures/solution.png)
 
-
-## My process
-
 ### Built with
 
 - HTML
