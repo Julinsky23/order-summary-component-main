@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
 
-
 :root{
     --pale-blue: hsl(225, 100%, 94%);
     --bright-blue: hsl(245, 75%, 52%);
@@ -27,11 +26,6 @@ body{
     /*background*/
     font-family: "Red Hat Display", sans-serif;
 }
-/*
-.aquaElement{
-    background-color:aqua;
-}*/
-
 
 .card{
     width: 450px;
